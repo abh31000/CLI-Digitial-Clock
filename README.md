@@ -11,12 +11,12 @@
 
 <br>
 
+
 ## Some Dependencies :
 ```
 pip3 install termcolor numpy
 ```
 
-<br>
 
 ## Usage :
 ```
